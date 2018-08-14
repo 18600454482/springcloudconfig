@@ -4,3 +4,4 @@ eureka:
   client:
     service-url:
       defaultZone: http://peer1:8760/eureka/
+foot: foot version 3
